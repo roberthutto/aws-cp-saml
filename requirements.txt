@@ -1,0 +1,7 @@
+setuptools
+python-dateutil
+botocore
+beautifulsoup4
+boto3
+requests
+requests_negotiate_sspi

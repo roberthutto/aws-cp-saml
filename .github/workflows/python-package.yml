@@ -36,6 +36,7 @@ jobs:
         twine upload dist/*
         python -m pip install -i https://test.pypi.org/simple/ aws-cp-saml
         awscp --help
+        #test
       shell: bash
 
 
